@@ -160,7 +160,7 @@ httplib2==0.22.0
 huggingface-hub==0.20.3
 humanize==4.7.0
 hyperopt==0.2.7
-ibis-framework==5.1.1
+ibis-framework==5.1.1.dev554
 idna==3.6
 imageio==2.31.6
 imageio-ffmpeg==0.4.9
