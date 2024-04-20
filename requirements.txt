@@ -371,7 +371,7 @@ shutilwhich==1.1.0
 six==1.16.0
 sklearn==0.0
 skyfield==1.42
-smart-open==7.0.6
+smart-open==7.0.4
 smmap==5.1.1
 sniffio==2.0.2
 snowballstemmer==2.3.1
