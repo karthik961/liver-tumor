@@ -465,6 +465,5 @@ yellowbrick==0.9.1
 yfinance==0.1.70
 zict==2.1.0
 zipp==3.6.0
-zmq==22.3.0
 zope.event==4.6.0
 zope.interface==5.4.1
