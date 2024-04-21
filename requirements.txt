@@ -454,7 +454,6 @@ Werkzeug==2.1.2
 wfdb==3.4.0
 wheel==0.37.1
 widgetsnbextension==3.5.2
-Wordbatch==1.4.4
 wrapt==1.13.1
 xarray==0.21.2
 xgboost==1.5.0
