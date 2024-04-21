@@ -442,7 +442,7 @@ urllib3==1.26.8
 validators==0.18.2
 vega-datasets==0.9.0
 vi==0.0.5.dev9
-vidaug==0.0.6
+vidaug==1.5
 visions==0.5.0
 vtk==9.0.3
 wandb==0.14.7
