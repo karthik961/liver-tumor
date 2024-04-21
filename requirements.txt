@@ -400,7 +400,7 @@ statsmodels==0.13.3
 streamlit==1.11.0
 sympy==1.11
 tables==3.7.0
-tabulate==0.8.11
+tabulate==0.8.10
 tblib==1.7.0
 tensorboard==2.8.0
 tensorboard-data==1.0.2
