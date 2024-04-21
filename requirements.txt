@@ -394,8 +394,7 @@ sphinxcontrib-serializinghtml==1.1.5
 sphinxcontrib-websupport==1.2.4
 SQLAlchemy==1.4.30
 sqlparse==0.4.2
-
-ssh-import-id==7.1.0
+ssh-import-id==5.11
 sshtunnel==0.5.1
 statsmodels==0.13.3
 streamlit==1.11.0
