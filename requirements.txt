@@ -68,7 +68,7 @@ decorator==4.4.2
 defusedxml==0.7.1
 distributed==2023.5.0
 distro==1.7.0
-dlib==19.24.4
+
 dm-tree==0.1.8
 docstring_parser==0.16
 docutils==0.18.1
@@ -319,7 +319,6 @@ PyDrive2==1.6.3
 pyerfa==2.0.0.3
 pygame==2.5.2
 Pygments==2.16.1
-PyGObject==3.42.1
 PyJWT==2.3.0
 pymc==5.6.1
 pymystem3==0.2.0
