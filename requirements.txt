@@ -431,7 +431,6 @@ traceback2==1.4.0
 trains==0.9.0
 transformers==4.12.2
 traitlets==5.14.3
-tsf-zoo==0.0.6
 tsplib95==0.8.2
 tweepy==4.3.0
 typeguard==2.17.1
