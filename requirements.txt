@@ -445,7 +445,7 @@ vi==0.0.5.dev9
 vidaug==1.5
 visions==0.5.0
 vtk==9.0.3
-wandb==0.14.7
+wandb==0.14.2
 wasabi==0.8.2
 wcwidth==0.2.5
 webencodings==0.5.1
