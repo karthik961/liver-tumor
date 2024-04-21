@@ -433,7 +433,7 @@ transformers==4.12.2
 traitlets==5.14.3
 tsplib95==0.7.1
 tweepy==4.3.0
-typeguard==2.17.1
+typeguard==2.13.3
 typing-extensions==4.11.1
 tzlocal==4.1
 umap-learn==0.5.1
