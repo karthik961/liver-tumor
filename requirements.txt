@@ -377,7 +377,6 @@ soupsieve
 spacy
 spacy-legacy
 sparklines
-spglib
 sphinx
 sphinx-autodoc-typehints
 sphinx-issues
