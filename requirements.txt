@@ -366,7 +366,6 @@ Shapely
 shortuuid
 shutilwhich
 six
-sklearn
 skyfield
 smart-open
 smmap
